@@ -1,4 +1,4 @@
-HYPOTHESIS — Track A: Concept Check
+HYPOTHESIS : Track A: Concept Check
 Committed before first line of code.
 
 Claim:
